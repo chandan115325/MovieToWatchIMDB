@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="F:\MyProjects\MovieToWatch\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_5bc43322ca18aad43022735c4f3f36fce0a0bc90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHANDAN\.android\build-cache\d71b1f38228e4e2fc9021ce9a7e460edbd093d27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5664aee50f2216099cc90c55768d3bbe0b075c74">
+        <dex dex="F:\MyProjects\MovieToWatch\app\build\intermediates\pre-dexed\debug\classes_84c4bf7924af2412dde952389f5d04850612d955.jar" />
+    </item>
+
+</items>
