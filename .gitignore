@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+app/libs/
+app/src/main/res/values/dimens/
+build/android-profile/profile-2017-08-11-14-55-24-691.rawproto
+build/android-profile/profile-2017-08-12-00-00-12-472.rawproto
+build/android-profile/profile-2017-08-12-00-03-17-790.rawproto
