@@ -210,7 +210,7 @@ public class DetailActivity extends AppCompatActivity {
                             //editor.putBoolean("Favorite Added", true);
                             // editor.commit();
                             saveFavorite();
-                            Snackbar.make(buttonView, "Added to Watchlist",
+                            Snackbar.make(buttonView, "Added to Favorite",
                                     Snackbar.LENGTH_SHORT).show();
                         } else {
                             int movie_id = getIntent().getExtras().getInt("id");
@@ -388,7 +388,7 @@ public class DetailActivity extends AppCompatActivity {
             favorite.setPosterPath(thumbnail);
             favorite.setVoteAverage(rate);
             favorite.setOverview(synopsis);
-
+            favorite.setVoteCount(voteCount);
             favoriteDbHelper.addFavorite(favorite);
         }
     }
